@@ -9,7 +9,8 @@ For testing I used these two types of connections.
 ![breadboard_base](images/breadboard.png)
 ![breadboard_base](images/breadboard_wp_hd.png)
 
-The functions (examples), which are in the main.c file worked fine. Uncommenting the example functions you can run testing of code.
+The functions (examples), which are in the main.c file worked fine.
+Uncommenting the example functions you can test the read and write data in to eeprom and status register, erase data from eeprom and other functions given by eeprom.
 
 Arduino library for SPI based EEPROMs can be found on
 https://wolles-elektronikkiste.de/en/eeprom-part-3-external-spi-eeproms
